@@ -1,0 +1,24 @@
+{
+    "name": "webserviceaxios",
+    "version": "1.0.0",
+    "description": "Consumindo api https://viacep.com.br/ com axios - ES6",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DemilsonPereira/webserviceAxios.git"
+    },
+    "author": "Demilson Pereira",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/DemilsonPereira/webserviceAxios/issues"
+    },
+    "homepage": "https://github.com/DemilsonPereira/webserviceAxios#readme",
+    "dependencies": {
+        "axios": "^0.21.1"
+    }
+}
