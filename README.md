@@ -1,2 +1,2 @@
 # webserviceAxios
-Consumindo uma api https://viacep.com.br/ com axios - ES6
+Consumindo api https://viacep.com.br/ com axios - ES6
